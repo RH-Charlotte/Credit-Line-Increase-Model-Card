@@ -2,7 +2,7 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: RouHsin Ku, `charlotte_ku@gwmail.gwu.edu`
+* **Person or organization developing model**: RouHsin Ku, `charlotte_ku@gwmail.gwu.edu` Wenqing Qin, Yu-Wen Yuan, Ellie Zhen
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: MIT
@@ -11,7 +11,7 @@
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
-* **Primary intended users**: Students in GWU DNSC 6301 bootcamp.
+* **Primary intended users**: Group 21 students in GWU DNSC 6301 bootcamp.
 * **Out-of-scope use cases**: Any use beyond an educational example is out-of-scope.
 
 ### Training Data
