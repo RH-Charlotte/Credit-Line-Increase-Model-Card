@@ -54,10 +54,10 @@
     * **Training AUC**: 0.78
     * **Validation AUC**: 0.75
     * **Test AUC**: 0.74
-    * **Asian-to-White AIR**: 1.00
-    * **Black-to-White AIR**: 0.82
-    * **Female-to-Male AIR**: 1.06
-    * **Hispanic-to-White AIR**: 0.76
+    * **Asian-to-White AIR**: 1.01
+    * **Black-to-White AIR**: 0.85
+    * **Female-to-Male AIR**: 1.02
+    * **Hispanic-to-White AIR**: 0.83
 * **Provide any plots related to your data or final mode**
 ![Picture1](https://user-images.githubusercontent.com/89314979/131273035-5378c956-8b44-4d41-9ebc-ca9daf2eb3e7.jpg)
 ![Picture2](https://user-images.githubusercontent.com/89314979/131273043-d552ed88-26a5-4f1b-868f-52dc2a3e272c.jpg)
