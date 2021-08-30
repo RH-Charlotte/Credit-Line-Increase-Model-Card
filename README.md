@@ -76,7 +76,8 @@
 **Describe potential uncertainties relating to the impacts of using your mode**:
 - **Math or software problems**: Prediction is not accurate and is vulnerable to uncertain changes in the future. At the same time, the data this model used may not be a true reflection of reality, so applying this model may not lead to a precise result.
 - **Real-world risks: who, what, when or how**?
-It is possible to have situation like jeopardize a group of people’s interests when using a model with uncertainties. In addition, biased opinion will lead to unneutral decision making.
+    * It is possible to have situation like jeopardize a group of people’s interests when using a model with uncertainties. In addition, biased opinion will lead to unneutral decision making. 
+    * Individuals/companies may make use of the biased models to earn self interests.
 
  **Describe any unexpected or results**:
 Some demographic variables have correlation with the analysis
