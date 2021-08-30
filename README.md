@@ -76,6 +76,6 @@
 - **Real-world risks: who, what, when or how**?
 It is possible to have situation like jeopardize a group of people’s interests when using a model with uncertainties. In addition, biased opinion will lead to unneutral decision making.
 
-* **Describe any unexpected or results**:
+ **Describe any unexpected or results**:
 
 
